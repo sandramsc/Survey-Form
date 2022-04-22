@@ -19,7 +19,7 @@ To get a local copy up and running:
 
 1. Clone the repo
    ```sh
-   https://github.com/sajustsmile/https:/github.com/sajustsmile/Survey-Form--HTML-CSS-work.git
+   https://github.com/sandramsc/https:/github.com/sajustsmile/Survey-Form--HTML-CSS-work.git
    ```
 2. Download .zip file and view unzipped file on localhost
 
